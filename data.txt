@@ -1,0 +1,2 @@
+Function 'add' was called 1 times
+Function 'add' was called 2 times
